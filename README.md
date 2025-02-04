@@ -4,13 +4,9 @@
 - 🔭 I’m currently working with browser testing and funny js functions,and
 - 🌱 I’m currently learning; networking 
 - 👯  <-- TODO  -->
-- ⚡ Fun fact:First html course 1993.
+- ⚡ Fun fact:First course: windows 1997.
 - The worm eat my code grafph;  
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
-
-Scripts & Readmee.files at-->
-https://github.com/CodeAndPranks
-
 1.Album:show a image,then a alert.Click activate run-text warning,then 2 sec delay before screen turn ugly grey.
 https://codeandpranks.github.io/Album 
 
