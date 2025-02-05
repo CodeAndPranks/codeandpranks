@@ -7,5 +7,5 @@ https://github.com/CodeAndPranks/CodeAndPranks.github.io
 - 👯  <-- TODO  -->
 - ⚡ Fun fact:First course,Windows 1997
   ![Readmee-Image](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
-- The worm eat my code grafph;  
+- A worm eat my constribution graph;  
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
