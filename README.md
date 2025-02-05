@@ -1,9 +1,6 @@
 ## Hi Guest
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Welcome+to+code+and+pranks%2C+;a+live+test+page+for++code+fun.)](https://git.io/typing-svg)
-All script's and code at:
-https://github.com/CodeAndPranks?tab=repositories
-
-All scripts description & user links:
+Script's info & demo-links temporarily at:
 https://github.com/CodeAndPranks/CodeAndPranks.github.io
 - 🔭 I’m currently do browser testing and     play with funny js & CSS functions.
 - 🌱 I’m currently learning; networking. 
