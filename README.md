@@ -3,7 +3,7 @@
 Script's info & demo-links temporarily at:
 https://github.com/CodeAndPranks/CodeAndPranks.github.io
 - 🔭 I’m currently do browser testing and     play with funny js & CSS functions.
-- 🌱 I’m currently learning; networking. 
+- 🌱 I’m currently learning; networking++. 
 - 👯  <-- TODO  -->
 - ⚡ Fun fact:First course,Windows 1997
   ![Readmee-Image](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
