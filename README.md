@@ -5,7 +5,7 @@ Check 'repositories' above for all script's.
 Those with demo-links is temporarily at:
 https://github.com/CodeAndPranks/CodeAndPranks.github.io
 - 🔭 I’m currently do browser testing,small funny js & CSS functions who run-by-a-click,or a mouseover.[Always work].
-- 🌱 I’m currently learning;server-stuff,AV-test etc.
+- 🌱 I’m currently learning;server-stuff,AV-pentesting etc.
 - 👯  <-- TODO -->
 - ⚡ Fun fact:First course,Windows 1997[Was you born then ?]
   ![Readmee-Image](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
