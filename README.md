@@ -5,11 +5,16 @@
 https://github.com/CodeAndPranks?tab=repositories
 # Those with demo-links is temporarily at:
 https://github.com/CodeAndPranks/CodeAndPranks.github.io
-- 🔭 I’m currently do browser testing,small funny js & CSS functions who run-by-a-click,or a mouseover.[Always work].
+<hr>
+
+- 🔭 I’m currently do browser testing,small funny js & CSS functions who run-by-a-click,or a mouseover[Always work]
+
 - 🌱 I’m currently learning;server-stuff,AV-pentesting etc.
 - 👯  <-- TODO -->
 - ⚡ Fun fact:First course,Windows 1997[Was you born then ?]
-  ![Readmee-Image](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
+  
+![Readmee-Image](https://github.com/CodeAndPranks/Zoom/blob/main/PXL_20250203_231900952.jpg)
+
 - A worm eat my constribution graph;  
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 
