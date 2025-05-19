@@ -1,5 +1,5 @@
-## Code With Demo-Link or Demo-Buttons<a id='up'></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Welcome+to+Code+And+Pranks%2C+;a+live+test+page+for++code+fun.)](https://git.io/typing-svg)
+## This is a test repo.Finished code moved to https://github.com/kaliscandinavia<a id='up'></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F7697A&background=A1A1A100&width=435&lines=Test+repo+Code+moved+to%2C+;+github.com+kaliscandinavia.)](https://git.io/typing-svg)
 # Visitor counter
 ![Visitor Count](https://profile-counter.glitch.me/CodeAndPranks/count.svg)
 
